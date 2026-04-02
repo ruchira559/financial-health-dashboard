@@ -40,5 +40,4 @@ The dashboard utilizes a **Star Schema** data model for optimal performance. Key
 3.  If prompted, update the data source path to point to the CSV file in the `Data/` folder.
 
 ---
-**Author:** Data Analyst @ The Finance Group  
 **Tooling:** Power BI, Power Query, DAX
