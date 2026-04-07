@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains a comprehensive Power BI dashboard designed for **The Finance Group**. The solution provides a monthly-level analysis of the company's financial health, Cash Flow, and Operational metrics into a single interactive interface.
 
-![Dashboard](dash.png)
+![Dashboard](dashboard.png)
 
 
 ## Key Features
